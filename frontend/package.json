@@ -9,7 +9,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "vue": "^3.4.21"
+    "vue": "^3.4.21",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.0",
+    "vite-plugin-vue2": "^2.0.3"
   },
   "devDependencies": {
     "@arco-design/web-vue": "^2.55.3",
