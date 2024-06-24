@@ -36,3 +36,6 @@ if __name__ == '__main__':
         port=8000,
         log_level="debug",
         reload=True)
+
+
+# pip install -r requirements.txt

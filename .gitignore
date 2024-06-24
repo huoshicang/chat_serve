@@ -5,6 +5,8 @@
 backend/__pycache__/
 backend/data/logs/
 
+node_modules/
+
 # 忽略特定文件
 # my_sensitive_info.txt
 
@@ -13,3 +15,5 @@ backend/data/logs/
 
 # 忽略特定目录及其所有内容，但不包括子目录中的某些文件时，可以这样写
 # backend/data/logs/*.log
+
+* text=auto eol=lf
